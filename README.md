@@ -1,1 +1,1 @@
-# cg-python-2024
+# gc-python-2024
