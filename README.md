@@ -55,17 +55,17 @@ Qual meu filme favorito? :heavy_check_mark:
 ```
 Resposta: Monty Python and the Holy Grail
 ```
-Qual planeta eu nasci? ❌
+Qual planeta eu nasci? 
 ```
-Resposta: Exemplo errado 
+Resposta: Jupyter 
 ```
 Qual meu tipo de pokemon favorito?
 ```
-Resposta:
+Resposta: Shiny 
 ```
 Gosto de cidades populosas, sem ser SP qual outra posso morar?
 ```
-Resposta:
+Resposta: Rio de Janeiro 
 ```
 
 ...
